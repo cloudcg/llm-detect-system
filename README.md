@@ -115,4 +115,4 @@ Content-Type: application/json
 
 ## 许可证
 
-[许可证类型]
+[MIT License]()
